@@ -23,11 +23,13 @@ EcoTrack AI is a comprehensive web application that combines artificial intellig
 2. Install dependencies:
 
 cd client && npm install
+
 cd server && npm install
 
 3. Start the development servers:
 
 cd client && npm start
+
 cd server && npm run dev
 
 
